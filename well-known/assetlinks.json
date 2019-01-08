@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.yogamezone.android",
+    "sha256_cert_fingerprints":
+    ["98:7F:A0:C8:8A:4B:4C:AE:7B:FE:DD:4F:0E:01:D5:52:37:7B:3D:FE:FE:ED:84:58:1E:84:B6:2A:93:76:15:99"]
+  }
+}]
